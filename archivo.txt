@@ -4,4 +4,8 @@ cuando un impresor (N. del T. persona que se dedica a la imprenta)
 cuando un impresor (N. del T. persona que se dedica a la imprenta)
 cuando un impresor (N. del T. persona que se dedica a la imprenta)
 
+<<<<<<< HEAD
 Su vida y obra maestra
+=======
+mañana nos enfocaremos en su vida
+>>>>>>> cabecera
